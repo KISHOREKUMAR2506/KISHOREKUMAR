@@ -1,0 +1,64 @@
+#titleName{
+    background-color:indigo;
+    color:white;
+}
+
+.page1{
+     text-align:center;
+    background-color:cornflowerblue;
+    background-size:auto;
+}
+#health1{
+    float:left;
+    margin:15px;
+    
+}
+.para1{
+   text-align:left;
+}
+.page2{
+     text-align:center;
+    background-color:cornflowerblue;
+    background-size:auto;
+}
+#health2{
+    float:right;
+    
+}
+.para2{
+   text-align:left;
+}
+
+.page3{
+     text-align:center;
+    background-color:cornflowerblue;
+    background-size:auto;
+}
+#health3{
+    float:left;
+}
+.para3{
+    text-align:left;
+}
+.page4{
+     text-align:center;
+    background-color:cornflowerblue;
+    background-size:auto;
+}
+#health4{
+    float:right;
+}
+.para4{
+    text-align:left;
+}
+.page5{
+     text-align:center;
+    background-color:cornflowerblue;
+    background-size:auto;
+}
+#health5{
+    float:left;
+}
+.para5{
+    text-align:left;
+}
